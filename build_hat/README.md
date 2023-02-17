@@ -1,5 +1,7 @@
 # Build Hat Documentation
-
+## Problem Statement
+- How to connect a Raspberry Pi to Lego Sensors and Actuators?
+  
 ## ToDo
 | Item | Description |
 | --- | --- |
