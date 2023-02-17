@@ -1,9 +1,9 @@
 # Build Hat Documentation
 
 ## ToDo
-| Item | Description |
+| Item | Status |
 | --- | --- |
-| Prep Raspberry Pi w/ Image | 
+| Prep Raspberry Pi w/ Image | DONE |
 | Test Motor Example |
 | Test Sensor Example |
 | Test Pi to Lego Technic Hub Connectivity |
